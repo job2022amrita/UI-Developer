@@ -1,3 +1,2 @@
 Hello World!!!!!!!
-
-Content dummy text..
+By this command to merge and add a commit to the latest change in the local branch.
